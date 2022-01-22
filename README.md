@@ -21,6 +21,7 @@ A mini, portable calculator that is easy to use
 **Instruction**
 
 Just use it like any calculator xD
+
 ***Note: Don't try to enter the negative number by clicking the minus button, it will cause this problem and may crash the program***
 
 
