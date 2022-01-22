@@ -6,7 +6,7 @@ A mini, portable calculator that is easy to use
 
 [![Star on GitHub](https://img.shields.io/github/downloads/cubigiabinh-org/SN-Calculator/380/total?color=0&label=download%20lastest&style=flat-square)](https://github.com/cubigiabinh-org/SN-Calculator/releases/tag/380)
 
-*Click to the file name **SN_380-Calculator-v1.0.zip*** *to download the file*![Screenshot_2246](C:\Users\cubig\Documents\Lightshot\Screenshot_2246.png)
+*Click to the file name **SN_380-Calculator-v1.0.zip*** *to download the file*![Screenshot_2246](Screenshot_2246.png)
 
 **Requirements**
 
@@ -22,4 +22,4 @@ A mini, portable calculator that is easy to use
 
 Just use it like any calculator xD
 ***Note: Don't try to enter the negative number by clicking the minus button, it will cause this problem and may crash the program***
-![Screenshot_2245](C:\Users\cubig\Documents\Lightshot\Screenshot_2245.png)
+![Screenshot_2245](Screenshot_2245.png)
