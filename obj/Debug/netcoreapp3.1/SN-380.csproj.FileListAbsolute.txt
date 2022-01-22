@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.exe
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.deps.json
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.runtimeconfig.json
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.dll
+C:\Users\ASUS\source\repos\SN-380\SN-380\bin\Debug\netcoreapp3.1\SN-380.pdb
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN_380.Form1.resources
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN_380.Properties.Resources.resources
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.dll
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.pdb
+C:\Users\ASUS\source\repos\SN-380\SN-380\obj\Debug\netcoreapp3.1\SN-380.genruntimeconfig.cache
