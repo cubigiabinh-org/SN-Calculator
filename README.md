@@ -4,7 +4,7 @@ A mini, portable calculator that is easy to use
 
 **Downloads**
 
-![Star on GitHub](https://img.shields.io/github/downloads/cubigiabinh-org/SN-Calculator/380/total?color=0&label=download%20lastest&style=flat-square)](https://github.com/cubigiabinh-org/SN-Calculator/releases/tag/380)
+[![Star on GitHub](https://img.shields.io/github/downloads/cubigiabinh-org/SN-Calculator/380/total?color=0&label=download%20lastest&style=flat-square)](https://github.com/cubigiabinh-org/SN-Calculator/releases/tag/380)
 
 **Requirements**
 
