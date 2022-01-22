@@ -6,6 +6,8 @@ A mini, portable calculator that is easy to use
 
 [![Star on GitHub](https://img.shields.io/github/downloads/cubigiabinh-org/SN-Calculator/380/total?color=0&label=download%20lastest&style=flat-square)](https://github.com/cubigiabinh-org/SN-Calculator/releases/tag/380)
 
+*Click to the file name **SN_380-Calculator-v1.0.zip*** *to download the file*![Screenshot_2246](C:\Users\cubig\Documents\Lightshot\Screenshot_2246.png)
+
 **Requirements**
 
 - .NET Core 3.1 (only 3.1, version 5 / 6 are not support) [Download .NET Core 3.1](https://download.visualstudio.microsoft.com/download/pr/1c14e24b-7f31-42dc-ba3c-83295a2d6f7e/41b93591162dfe556cc160ae44fbe75e/windowsdesktop-runtime-3.1.22-win-x64.exe)
